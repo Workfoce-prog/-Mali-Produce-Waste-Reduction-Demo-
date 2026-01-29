@@ -1,0 +1,3 @@
+record_id,record_type,name,phone,crop,quantity_kg,location,date,price_xof,grade,notes,created_at
+1,listing,Awa,+22370000001,Tomato,250,Sikasso,2026-01-25,350,A,Seed listing,2026-01-29T17:54:47.072810
+2,demand,Hotel Faso,+22370000011,Tomato,200,Bamako,2026-01-26,400,,Seed demand,2026-01-29T17:54:47.072830
