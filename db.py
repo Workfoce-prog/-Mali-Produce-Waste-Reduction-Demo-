@@ -2,7 +2,7 @@ from __future__ import annotations
 import os
 import pandas as pd
 from datetime import datetime
-from .settings import DB_PATH
+from settings import DB_PATH
 
 COLUMNS = [
     "record_id","record_type",
