@@ -55,6 +55,7 @@ with tabs[0]:
                 "location": location,
                 "date": str(harvest_date),
                 "price_xof": price,
+                "grade": grade,
                 "notes": notes,
             })
             st.success("Listing added.")
