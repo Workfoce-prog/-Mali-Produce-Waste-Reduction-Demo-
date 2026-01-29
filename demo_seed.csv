@@ -1,7 +1,0 @@
-record_id,record_type,name,phone,crop,quantity_kg,location,date,price_xof,grade,notes,hub_name,storage_days,storage_fee_xof,payment_ref,payment_status,created_at
-1,listing,Awa,+22370000001,Tomato,250,Sikasso,2026-01-25,350,,Seed listing,,,,,,
-2,listing,Moussa,+22370000002,Mango,180,Koulikoro,2026-01-24,500,,Seed listing,,,,,,
-3,demand,Hotel Faso,+22370000011,Tomato,200,Bamako,2026-01-26,400,,Seed demand,,,,,,
-4,demand,Fresh Market,+22370000012,Mango,120,Bamako,2026-01-26,600,,Seed demand,,,,,,
-5,csa,CSA Customer,+22370000021,,0,Bamako,2026-01-26,12000,,Weekly | Medium | Seed CSA,,,,,unpaid,
-6,coldhub,Trader Hub,+22370000031,Tomato,100,Sikasso,2026-01-26,0,,Inbound seed,Sikasso Solar Cold Hub #1,2,1500,,unpaid,
